@@ -913,15 +913,13 @@ footer {
 </html>
 ```
 # OUTPUT:
-![alt text](<rest/restapp/static/Screenshot (95).png>)
+
 
 ![alt text](<rest/restapp/static/Screenshot (96).png>)
 
 ![alt text](<rest/restapp/static/Screenshot (97).png>)
 
 ![alt text](<rest/restapp/static/Screenshot (98).png>)
-
-![alt text](<rest/restapp/static/Screenshot (99).png>)
 
 ![alt text](<rest/restapp/static/Screenshot (100).png>)
 
